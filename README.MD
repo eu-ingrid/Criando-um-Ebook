@@ -52,9 +52,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
         <p>&nbsp&nbsp&nbspIngrid Braga<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/eu-ingrid">
-    GitHub</a>&nbsp;|&nbsp;
+    GitHub</a>
    
-&nbsp;|&nbsp;</p>
+</p>
 </p>
 <br/><br/>
 
