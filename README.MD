@@ -1,6 +1,6 @@
 # PROJETO "CRIANDO UM E-BOOK"
 
- > ℹ️ **NOTE:** Este repositório foi desenvolvido durante o Bootcamp "CAIXA - IA Generativa com Microsoft Copilot", curso que realizei na plataforma da [DIO](https://dio.me)
+ > ℹ️ Repositório criado durante o Bootcamp "CAIXA - IA Generativa com Microsoft Copilot", curso que realizei na plataforma da [DIO](https://dio.me)
 
 ## 💻 Objetivo: Gerar um E-book utilizando ferramentas de IA. 
 
