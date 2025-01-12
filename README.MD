@@ -40,7 +40,7 @@ Craiyon：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado e template em `outputs`
+- ebook gerado e template em `output`
 
 
 ## 🛠️ Execução
