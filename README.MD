@@ -1,6 +1,5 @@
 # PROJETO "CRIANDO UM E-BOOK"
 
-
  > ℹ️ **NOTE:** Este repositório foi desenvolvido durante o Bootcamp "CAIXA - IA Generativa com Microsoft Copilot", curso que realizei na plataforma da [DIO](https://dio.me)
 
 ## 💻 Objetivo: Gerar um E-book utilizando ferramentas de IA. 
@@ -46,7 +45,7 @@ Craiyon：
 
 ## 🛠️ Execução
 
-Os prompts acima foram utilizados nas respectivas ferramentas para gerar o texto do e-book e a imagem de fundo da capa. Para diagramação foi utilizado o Power Point
+Os prompts acima foram utilizados nas respectivas ferramentas para gerar o texto do e-book e a imagem de fundo da capa. Para diagramação foi utilizado o Power Point.
 
 
 ## 👨‍💻 Expert
