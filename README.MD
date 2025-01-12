@@ -52,7 +52,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     
     Ingrid Braga<br>
     
-    <a href="https://github.com/eu-ingrid"> </a>
+    <a href="https://github.com/eu-ingrid"> Github </a>
     
 </p>
 
