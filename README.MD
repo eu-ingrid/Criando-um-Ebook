@@ -49,12 +49,14 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    
-    Ingrid Braga<br>
-    
-    <a href="https://github.com/eu-ingrid"> Github </a>
-    
+        <p>&nbsp&nbsp&nbspIngrid Braga<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/eu-ingrid">
+    GitHub</a>&nbsp;|&nbsp;
+   
+&nbsp;|&nbsp;</p>
 </p>
+<br/><br/>
 
 ---
 
