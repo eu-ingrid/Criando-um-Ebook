@@ -2,7 +2,9 @@
 
  > ℹ️ Repositório criado durante o Bootcamp "CAIXA - IA Generativa com Microsoft Copilot", curso que realizei na plataforma da [DIO](https://dio.me)
 
-## 💻 Objetivo: Gerar um E-book utilizando ferramentas de IA. 
+## 💻 Objetivo: 
+
+Gerar um E-book utilizando ferramentas de IA. 
 
 <a href="https://github.com/eu-ingrid/Criando-um-Ebook/blob/main/outputs/Ebook%20Apostas%20em%20Jogo.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
